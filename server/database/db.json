@@ -1,0 +1,411 @@
+{
+  "users": [
+    {
+      "id": "demo-user",
+      "username": "demo",
+      "email": "demo@health.com",
+      "password_hash": "$2a$10$oDxWqbauhO5KO.7CXFgZfucUsaNWtXF3UAsB7V5Wjgf5W4fzbcnVW",
+      "name": "演示用户",
+      "phone": "13800138000",
+      "member_since": "2026-03-18",
+      "created_at": "2026-03-18T07:08:45.348Z"
+    }
+  ],
+  "healthMetrics": [
+    {
+      "id": "hr-0",
+      "user_id": "demo-user",
+      "metric_type": "heart_rate",
+      "metric_value": 72.30354030615676,
+      "unit": "bpm",
+      "recorded_at": "2026-03-18T07:08:45.349Z",
+      "created_at": "2026-03-18T07:08:45.349Z"
+    },
+    {
+      "id": "bp-0",
+      "user_id": "demo-user",
+      "metric_type": "blood_pressure",
+      "metric_value": 122.3220404608072,
+      "unit": "mmHg",
+      "recorded_at": "2026-03-18T07:08:45.349Z",
+      "created_at": "2026-03-18T07:08:45.349Z"
+    },
+    {
+      "id": "steps-0",
+      "user_id": "demo-user",
+      "metric_type": "steps",
+      "metric_value": 7935,
+      "unit": "steps",
+      "recorded_at": "2026-03-18T07:08:45.349Z",
+      "created_at": "2026-03-18T07:08:45.349Z"
+    },
+    {
+      "id": "hr-1",
+      "user_id": "demo-user",
+      "metric_type": "heart_rate",
+      "metric_value": 78.90744457168046,
+      "unit": "bpm",
+      "recorded_at": "2026-03-17T07:08:45.349Z",
+      "created_at": "2026-03-17T07:08:45.349Z"
+    },
+    {
+      "id": "bp-1",
+      "user_id": "demo-user",
+      "metric_type": "blood_pressure",
+      "metric_value": 122.47979767785468,
+      "unit": "mmHg",
+      "recorded_at": "2026-03-17T07:08:45.349Z",
+      "created_at": "2026-03-17T07:08:45.349Z"
+    },
+    {
+      "id": "steps-1",
+      "user_id": "demo-user",
+      "metric_type": "steps",
+      "metric_value": 8953,
+      "unit": "steps",
+      "recorded_at": "2026-03-17T07:08:45.349Z",
+      "created_at": "2026-03-17T07:08:45.349Z"
+    },
+    {
+      "id": "hr-2",
+      "user_id": "demo-user",
+      "metric_type": "heart_rate",
+      "metric_value": 72.88255402598382,
+      "unit": "bpm",
+      "recorded_at": "2026-03-16T07:08:45.349Z",
+      "created_at": "2026-03-16T07:08:45.349Z"
+    },
+    {
+      "id": "bp-2",
+      "user_id": "demo-user",
+      "metric_type": "blood_pressure",
+      "metric_value": 116.55423527214461,
+      "unit": "mmHg",
+      "recorded_at": "2026-03-16T07:08:45.349Z",
+      "created_at": "2026-03-16T07:08:45.349Z"
+    },
+    {
+      "id": "steps-2",
+      "user_id": "demo-user",
+      "metric_type": "steps",
+      "metric_value": 11103,
+      "unit": "steps",
+      "recorded_at": "2026-03-16T07:08:45.349Z",
+      "created_at": "2026-03-16T07:08:45.349Z"
+    },
+    {
+      "id": "hr-3",
+      "user_id": "demo-user",
+      "metric_type": "heart_rate",
+      "metric_value": 75.47865655140173,
+      "unit": "bpm",
+      "recorded_at": "2026-03-15T07:08:45.349Z",
+      "created_at": "2026-03-15T07:08:45.349Z"
+    },
+    {
+      "id": "bp-3",
+      "user_id": "demo-user",
+      "metric_type": "blood_pressure",
+      "metric_value": 116.48822332918641,
+      "unit": "mmHg",
+      "recorded_at": "2026-03-15T07:08:45.349Z",
+      "created_at": "2026-03-15T07:08:45.349Z"
+    },
+    {
+      "id": "steps-3",
+      "user_id": "demo-user",
+      "metric_type": "steps",
+      "metric_value": 12425,
+      "unit": "steps",
+      "recorded_at": "2026-03-15T07:08:45.349Z",
+      "created_at": "2026-03-15T07:08:45.349Z"
+    },
+    {
+      "id": "hr-4",
+      "user_id": "demo-user",
+      "metric_type": "heart_rate",
+      "metric_value": 71.98846419768367,
+      "unit": "bpm",
+      "recorded_at": "2026-03-14T07:08:45.349Z",
+      "created_at": "2026-03-14T07:08:45.349Z"
+    },
+    {
+      "id": "bp-4",
+      "user_id": "demo-user",
+      "metric_type": "blood_pressure",
+      "metric_value": 120.49153685755506,
+      "unit": "mmHg",
+      "recorded_at": "2026-03-14T07:08:45.349Z",
+      "created_at": "2026-03-14T07:08:45.349Z"
+    },
+    {
+      "id": "steps-4",
+      "user_id": "demo-user",
+      "metric_type": "steps",
+      "metric_value": 5596,
+      "unit": "steps",
+      "recorded_at": "2026-03-14T07:08:45.349Z",
+      "created_at": "2026-03-14T07:08:45.349Z"
+    },
+    {
+      "id": "hr-5",
+      "user_id": "demo-user",
+      "metric_type": "heart_rate",
+      "metric_value": 70.48730440284115,
+      "unit": "bpm",
+      "recorded_at": "2026-03-13T07:08:45.349Z",
+      "created_at": "2026-03-13T07:08:45.349Z"
+    },
+    {
+      "id": "bp-5",
+      "user_id": "demo-user",
+      "metric_type": "blood_pressure",
+      "metric_value": 115.72078712890898,
+      "unit": "mmHg",
+      "recorded_at": "2026-03-13T07:08:45.349Z",
+      "created_at": "2026-03-13T07:08:45.349Z"
+    },
+    {
+      "id": "steps-5",
+      "user_id": "demo-user",
+      "metric_type": "steps",
+      "metric_value": 11532,
+      "unit": "steps",
+      "recorded_at": "2026-03-13T07:08:45.349Z",
+      "created_at": "2026-03-13T07:08:45.349Z"
+    },
+    {
+      "id": "hr-6",
+      "user_id": "demo-user",
+      "metric_type": "heart_rate",
+      "metric_value": 79.1489128744477,
+      "unit": "bpm",
+      "recorded_at": "2026-03-12T07:08:45.349Z",
+      "created_at": "2026-03-12T07:08:45.349Z"
+    },
+    {
+      "id": "bp-6",
+      "user_id": "demo-user",
+      "metric_type": "blood_pressure",
+      "metric_value": 123.21221068130473,
+      "unit": "mmHg",
+      "recorded_at": "2026-03-12T07:08:45.349Z",
+      "created_at": "2026-03-12T07:08:45.349Z"
+    },
+    {
+      "id": "steps-6",
+      "user_id": "demo-user",
+      "metric_type": "steps",
+      "metric_value": 11078,
+      "unit": "steps",
+      "recorded_at": "2026-03-12T07:08:45.349Z",
+      "created_at": "2026-03-12T07:08:45.349Z"
+    },
+    {
+      "id": "hr-7",
+      "user_id": "demo-user",
+      "metric_type": "heart_rate",
+      "metric_value": 70.28905666784553,
+      "unit": "bpm",
+      "recorded_at": "2026-03-11T07:08:45.349Z",
+      "created_at": "2026-03-11T07:08:45.349Z"
+    },
+    {
+      "id": "bp-7",
+      "user_id": "demo-user",
+      "metric_type": "blood_pressure",
+      "metric_value": 117.06251699575823,
+      "unit": "mmHg",
+      "recorded_at": "2026-03-11T07:08:45.349Z",
+      "created_at": "2026-03-11T07:08:45.349Z"
+    },
+    {
+      "id": "steps-7",
+      "user_id": "demo-user",
+      "metric_type": "steps",
+      "metric_value": 9335,
+      "unit": "steps",
+      "recorded_at": "2026-03-11T07:08:45.349Z",
+      "created_at": "2026-03-11T07:08:45.349Z"
+    },
+    {
+      "id": "hr-8",
+      "user_id": "demo-user",
+      "metric_type": "heart_rate",
+      "metric_value": 78.35666365857861,
+      "unit": "bpm",
+      "recorded_at": "2026-03-10T07:08:45.349Z",
+      "created_at": "2026-03-10T07:08:45.349Z"
+    },
+    {
+      "id": "bp-8",
+      "user_id": "demo-user",
+      "metric_type": "blood_pressure",
+      "metric_value": 122.43206503486945,
+      "unit": "mmHg",
+      "recorded_at": "2026-03-10T07:08:45.349Z",
+      "created_at": "2026-03-10T07:08:45.349Z"
+    },
+    {
+      "id": "steps-8",
+      "user_id": "demo-user",
+      "metric_type": "steps",
+      "metric_value": 14460,
+      "unit": "steps",
+      "recorded_at": "2026-03-10T07:08:45.349Z",
+      "created_at": "2026-03-10T07:08:45.349Z"
+    },
+    {
+      "id": "hr-9",
+      "user_id": "demo-user",
+      "metric_type": "heart_rate",
+      "metric_value": 77.82672109165846,
+      "unit": "bpm",
+      "recorded_at": "2026-03-09T07:08:45.349Z",
+      "created_at": "2026-03-09T07:08:45.349Z"
+    },
+    {
+      "id": "bp-9",
+      "user_id": "demo-user",
+      "metric_type": "blood_pressure",
+      "metric_value": 122.47831883430892,
+      "unit": "mmHg",
+      "recorded_at": "2026-03-09T07:08:45.349Z",
+      "created_at": "2026-03-09T07:08:45.349Z"
+    },
+    {
+      "id": "steps-9",
+      "user_id": "demo-user",
+      "metric_type": "steps",
+      "metric_value": 7647,
+      "unit": "steps",
+      "recorded_at": "2026-03-09T07:08:45.349Z",
+      "created_at": "2026-03-09T07:08:45.349Z"
+    }
+  ],
+  "familyMembers": [
+    {
+      "id": "m1",
+      "name": "张三",
+      "relation": "父亲",
+      "age": 58,
+      "gender": "男",
+      "avatar_color": "#8b5cf6",
+      "health_score": 85,
+      "risk_level": "中",
+      "user_id": "demo-user",
+      "last_check_in": "2026-03-18",
+      "created_at": "2026-03-18T07:08:45.359Z",
+      "updated_at": "2026-03-18T07:08:45.359Z"
+    },
+    {
+      "id": "m2",
+      "name": "李四",
+      "relation": "母亲",
+      "age": 56,
+      "gender": "女",
+      "avatar_color": "#f97316",
+      "health_score": 88,
+      "risk_level": "中",
+      "user_id": "demo-user",
+      "last_check_in": "2026-03-18",
+      "created_at": "2026-03-18T07:08:45.361Z",
+      "updated_at": "2026-03-18T07:08:45.361Z"
+    },
+    {
+      "id": "m3",
+      "name": "王五",
+      "relation": "配偶",
+      "age": 32,
+      "gender": "男",
+      "avatar_color": "#22c55e",
+      "health_score": 95,
+      "risk_level": "低",
+      "user_id": "demo-user",
+      "last_check_in": "2026-03-18",
+      "created_at": "2026-03-18T07:08:45.362Z",
+      "updated_at": "2026-03-18T07:08:45.362Z"
+    }
+  ],
+  "familyVitals": [
+    {
+      "id": "v-m1",
+      "member_id": "m1",
+      "heart_rate": 87,
+      "blood_pressure": "120/80",
+      "steps": 12559,
+      "recorded_at": "2026-03-18T07:08:45.360Z"
+    },
+    {
+      "id": "v-m2",
+      "member_id": "m2",
+      "heart_rate": 72,
+      "blood_pressure": "120/80",
+      "steps": 5426,
+      "recorded_at": "2026-03-18T07:08:45.361Z"
+    },
+    {
+      "id": "v-m3",
+      "member_id": "m3",
+      "heart_rate": 73,
+      "blood_pressure": "120/80",
+      "steps": 6907,
+      "recorded_at": "2026-03-18T07:08:45.363Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg1",
+      "user_id": "demo-user",
+      "title": "每日健康提醒",
+      "content": "记得按时测量血压和心率",
+      "full_content": "完整内容：建议您每天早上起床后测量血压和心率，并记录下来。",
+      "type": "health",
+      "priority": "normal",
+      "is_read": false,
+      "created_at": "2026-03-18T07:08:45.363Z"
+    },
+    {
+      "id": "msg2",
+      "user_id": "demo-user",
+      "title": "系统更新通知",
+      "content": "系统已升级到 v2.3.0",
+      "full_content": "完整内容：本次更新优化了数据可视化效果，修复了已知问题。",
+      "type": "system",
+      "priority": "low",
+      "is_read": false,
+      "created_at": "2026-03-18T07:08:45.363Z"
+    },
+    {
+      "id": "msg3",
+      "user_id": "demo-user",
+      "title": "心率异常提醒",
+      "content": "检测到您的心率偏高",
+      "full_content": "完整内容：您今天下午的心率持续高于正常范围，建议适当休息。",
+      "type": "health",
+      "priority": "high",
+      "is_read": false,
+      "created_at": "2026-03-18T07:08:45.363Z"
+    }
+  ],
+  "settings": [
+    {
+      "id": "settings-demo",
+      "user_id": "demo-user",
+      "theme": "dark",
+      "font_size": 14,
+      "heart_rate_alert": true,
+      "medication_alert": true,
+      "sleep_alert": true,
+      "system_update": true,
+      "health_report": true,
+      "data_sync": true,
+      "analytics": false,
+      "family_visible": true,
+      "two_factor": false,
+      "created_at": "2026-03-18T07:08:45.364Z",
+      "updated_at": "2026-03-18T07:08:45.364Z"
+    }
+  ],
+  "healthReports": []
+}
